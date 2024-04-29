@@ -11,7 +11,7 @@ in the background and one in the foreground, each accessing the same file.
  - Modify the script to prevent the race.  
    (Hint: use In file file.lock to lock the data file).
 
-   **_Note:_** More information about the installation of the operating system MINIX and the task itself can be read in the [presentation](https://github.com/Gabriela-Milusheva/OS_race-task/blob/main/Operating%20Systems-%20Course%20project-%20presentation.pdf). 
+   **_Note:_** More information about the installation of the MINIX OS and the task itself can be read in the [presentation](https://github.com/Gabriela-Milusheva/OS_race-task/blob/main/Operating%20Systems-%20Course%20project-%20presentation.pdf). 
 
 ## 🐾 Steps to get the project
 1. Clone the repository
