@@ -1,5 +1,6 @@
 # OS_task-race
 ## 📌 Task Description
+
 ### Практически занимания с операционната система MINIX:
 Инсталирайте Minix върху виртуална машина или физическо устройство и решете следната задача:
 
@@ -14,6 +15,7 @@ in the background and one in the foreground, each accessing the same file.
    **_Note:_** More information about the installation of the MINIX OS and the task itself can be read in the [presentation](https://github.com/Gabriela-Milusheva/OS_race-task/blob/main/Operating%20Systems-%20Course%20project-%20presentation.pdf). 
 
 ## 🐾 Steps to get the project
+
 1. Clone the repository
  ```sh
 git clone https://github.com/Gabriela-Milusheva/OS_race-task
@@ -22,6 +24,7 @@ git clone https://github.com/Gabriela-Milusheva/OS_race-task
 cd OS_race-task
  ```
 3. Create scripts and start the project:
+   
 Restart:
 ```sh
 sh start.sh
