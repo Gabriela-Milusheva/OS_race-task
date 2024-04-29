@@ -1,5 +1,5 @@
 # OS_task-race
-## Task Description
+## 📌 Task Description
 ### Практически занимания с операционната система MINIX:
 Инсталирайте Minix върху виртуална машина или физическо устройство и решете следната задача:
 
@@ -12,7 +12,7 @@ in the background and one in the foreground, each accessing the same file.
    (Hint: use In file file.lock to lock the data file).
 
    
-## Steps to get the project
+## 🐾 Steps to get the project
 1. Clone the repository
  ```sh
 git clone https://github.com/Gabriela-Milusheva/OS_race-task
