@@ -1,5 +1,5 @@
-## OS_task-race
-# Steps to get the project:
+# OS_task-race
+## Steps to get the project:
 1. Clone the repository
 git clone https://github.com/Gabriela-Milusheva/OS_race-task
 cd OS_race-task
